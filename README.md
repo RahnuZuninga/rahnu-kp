@@ -7,17 +7,14 @@ Guest
 
 Customer
 1. Login
-2. Add product to cart
-3. Checkout (No payment gateway implemented, all checkout status=PAID)
-4. View purchase history
+2. call to call ke marketplace
 
 Admin 
 1. Login to admin panel
 2. CRUD product
 3. CRUD size
-4. Manage order
-5. View user
-6. Notes
+4. View user
+5. Notes
 
 ### Installation
 1. Clone the repository using the command "git clone [link]"
