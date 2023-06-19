@@ -1,7 +1,3 @@
-![banner](https://banners.beyondco.de/The%20Rack.png?theme=light&packageManager=&packageName=https%3A%2F%2Fgithub.com%2Fsherwinchia%2Ftherack&pattern=rain&style=style_1&description=Laravel+7+Ecommerce+Website&md=0&showWatermark=0&fontSize=125px&images=shopping-cart&widths=250&heights=250)
-
-## The Rack - Ecommerce Website
-
 ### Features
 
 Guest
@@ -42,12 +38,5 @@ $php artisan storage:link
 * Laravel - PHP framework
 * MySql- Databse
 
-### Demo
-https://www.youtube.com/watch?v=9WpcCnBOa8Q
-
 ### Note
 If you find this repository useful, don't forget to star the repository. Credit not required but much appreciated! 
-
-### Token of appreciation
-[Saweria](https://saweria.co/sherwinchia) or 
-[Paypal](https://www.paypal.me/sherwinchia)
